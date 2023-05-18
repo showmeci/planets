@@ -1,4 +1,7 @@
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman.
+<<<<<<< HEAD
 The mummy will appreciate the low humidity.
 Maybe consider Venus as a base.
+=======
+>>>>>>> parent of 5898eaf (Discuss Mars climate for mummy)
